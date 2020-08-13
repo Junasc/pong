@@ -1,2 +1,2 @@
 # game-pong
- Primeiro repositorio de um jogo criado em 1972 , chamado pong .
+ Primeiro repositorio da replica de um jogo chamado pong , criado inicialmente em 1972.
