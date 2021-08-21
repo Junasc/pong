@@ -10,7 +10,7 @@ Pong é um game de esporte desenvolvido e publicado pela Atari em 1972. Com uma 
 
 ## 🎯 Objetivo
 
-O objetivo do jogo é sempre rebater a bola e tentar fazer com que o adversrio deixe a bola passar.
+O objetivo do jogo é sempre rebater a bola e tentar fazer com que o adversário deixe a bola passar.
 
 ## ✒️ Justificativa
 
