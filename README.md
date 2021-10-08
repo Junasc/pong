@@ -1,8 +1,5 @@
 # Game Pong
 
-[![Code Size][code-size]][code-url]
-[![License][MIT-license]][MIT-url]
-[![Realese][version]][version-url]
 
 Pong é um game de esporte desenvolvido e publicado pela Atari em 1972. Com uma proposta simples que lembra a dinâmica do pingue-pongue, o título marcou a história dos videogames por ser o primeiro jogo lucrativo da história.
 
